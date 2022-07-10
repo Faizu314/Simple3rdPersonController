@@ -1,0 +1,17 @@
+{
+    "name": "com.faizan314.charactercontroller",
+    "rootNamespace": "",
+    "references": [
+        "Cinemachine",
+        "zoistudio.inputmanager.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 886b3aeab4e504e4f8b6f7e8d2e65db1, type: 3}
+  m_Name: Input
+  m_EditorClassIdentifier: 
+  RawMovementDir: {x: 0, y: 0}
+  RawLookDir: {x: 0, y: 0}
+  MovementJoyStickOrigin: {x: 0, y: 0}
+  LookJoyStickOrigin: {x: 0, y: 0}
+  OnLeftTouchDown:
+    m_PersistentCalls:
+      m_Calls: []
+  OnLeftTouchUp:
+    m_PersistentCalls:
+      m_Calls: []
+  OnRightTouchDown:
+    m_PersistentCalls:
+      m_Calls: []
+  OnRightTouchUp:
+    m_PersistentCalls:
+      m_Calls: []
